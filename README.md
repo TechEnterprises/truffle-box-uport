@@ -12,7 +12,7 @@ All truffle boxes come with Truffle, Webpack and React. This box adds react-rout
 
 2. Clone or download the truffle box of your choice.
     ```javascript
-    git clone [repo]
+    git clone https://github.com/TechEnterprises/truffle-box-uport.git
     ```
 
 3. Install the node dependencies.
